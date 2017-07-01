@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:grails3-cors-interceptor:0.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails3-cors-interceptor/0.1.5/d4c5fff79f3b16b0836c3be01d6f3f4f8788d42a/grails3-cors-interceptor-0.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/grails3-cors-interceptor/0.1.5/54ec1f6038ad043b11d577e78292ca58b1209f89/grails3-cors-interceptor-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
